@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;700&display=swap');
+
+body {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    direction: rtl;
+    text-align: right;
+}
+
+/* RTL overrides for navigation */
+.navbar-nav {
+    margin-right: auto;
+    margin-left: 0;
+}
+
+.nav-item {
+    margin-left: 1rem;
+    margin-right: 0;
+}
+
+/* Icons and spacing */
+.fa, .fas, .fab {
+    margin-left: 0.5rem;
+    margin-right: 0;
+}
+
+.me-2 {
+    margin-left: 0.5rem !important;
+    margin-right: 0 !important;
+}
+
+.ms-auto {
+    margin-right: auto !important;
+    margin-left: 0 !important;
+}
+
+.me-auto {
+    margin-left: auto !important;
+    margin-right: 0 !important;
+}
+
+/* Offset components for RTL */
+.hero-content {
+    text-align: right;
+}
+
+/* Forms */
+.form-control, .form-select {
+    text-align: right;
+}
+
+.form-label {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/* Footer layout */
+.footer-contact i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+
+/* RTL Overrides */
+
+/* Make sure the text on the hero section and images appear properly */
+.hero-content {
+    margin-right: 0 !important;
+}
+
+/* Adjust navigation so it works nicely in RTL */
+.navbar-nav {
+    margin-right: auto !important;
+    margin-left: 0 !important;
+}
+
+.nav-item {
+    margin-left: 1rem !important;
+    margin-right: 0 !important;
+}
+
+.dropdown-menu {
+    text-align: right !important;
+}
+
+/* Fix arrows */
+.fa-arrow-right:before {
+    content: "\f060"; /* Font Awesome left arrow */
+}
+.fa-arrow-left:before {
+    content: "\f061"; /* Font Awesome right arrow */
+}
