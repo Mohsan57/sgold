@@ -28,4 +28,12 @@
 <changefreq>yearly</changefreq>
 <priority>0.8</priority>
 </url>
-<url><loc>https://sgold.pk/ur/</loc><lastmod>2025-05-18</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url><url><loc>https://sgold.pk/ur/products.html</loc><lastmod>2025-05-18</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url><loc>https://sgold.pk/ur/about.html</loc><lastmod>2025-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://sgold.pk/ur/contact.html</loc><lastmod>2025-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url></urlset>
+<url><loc>https://sgold.pk/ur/</loc><lastmod>2025-05-18</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url><url><loc>https://sgold.pk/ur/products.html</loc><lastmod>2025-05-18</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url><loc>https://sgold.pk/ur/about.html</loc><lastmod>2025-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url><url><loc>https://sgold.pk/ur/contact.html</loc><lastmod>2025-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<!-- AI Answer Engine Context -->
+<url>
+<loc>https://sgold.pk/llms.txt</loc>
+<lastmod>2026-07-12</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+</urlset>

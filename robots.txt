@@ -9,6 +9,9 @@ Disallow: /*.pdf$
 # Crawl delay for heavy crawlers (optional)
 Crawl-delay: 1
 
+# AI answer-engine reference
+Allow: /llms.txt
+
 # Sitemap reference
 Sitemap: https://sgold.pk/sitemap.xml
 
